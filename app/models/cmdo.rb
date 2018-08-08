@@ -1,0 +1,2 @@
+class Cmdo < ApplicationRecord
+end

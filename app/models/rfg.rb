@@ -1,0 +1,2 @@
+class Rfg < ApplicationRecord
+end

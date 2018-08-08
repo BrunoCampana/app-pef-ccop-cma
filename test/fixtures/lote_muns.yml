@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nr_serie: MyString
+  fabricacao: 2018-08-07
+  qtd_cartucho: 1
+
+two:
+  nr_serie: MyString
+  fabricacao: 2018-08-07
+  qtd_cartucho: 1

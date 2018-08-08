@@ -1,0 +1,2 @@
+class SOp < ApplicationRecord
+end

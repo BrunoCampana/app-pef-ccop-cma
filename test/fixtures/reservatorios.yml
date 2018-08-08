@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: 1
+  desc: MyText
+  capacidade_l: 1.5
+  nivel_atual: 1.5
+
+two:
+  status: 1
+  desc: MyText
+  capacidade_l: 1.5
+  nivel_atual: 1.5

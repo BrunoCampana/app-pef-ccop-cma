@@ -1,0 +1,2 @@
+class GrauHier < ApplicationRecord
+end

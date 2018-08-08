@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cpc_estq_frios_dias: 1
+  cpc_estq_seco_dias: 1
+  desc: MyText
+  img_seco: MyString
+  img_frio: MyString
+
+two:
+  cpc_estq_frios_dias: 1
+  cpc_estq_seco_dias: 1
+  desc: MyText
+  img_seco: MyString
+  img_frio: MyString

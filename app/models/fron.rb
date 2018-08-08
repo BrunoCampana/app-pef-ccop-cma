@@ -1,0 +1,2 @@
+class Fron < ApplicationRecord
+end
